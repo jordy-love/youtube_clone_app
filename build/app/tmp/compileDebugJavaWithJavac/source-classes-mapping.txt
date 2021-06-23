@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/youtube_clone_app/MainActivity.java
+ com.example.youtube_clone_app.MainActivity
+com/example/youtube_clone_app/BuildConfig.java
+ com.example.youtube_clone_app.BuildConfig
